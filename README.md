@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bassem Moumen 👋
 
-<!--
-**bassem132/bassem132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack developer building web and mobile applications with TypeScript.**
 
-Here are some ideas to get you started:
+I work across React and Next.js frontends, Node.js APIs, and React Native mobile apps. I'm open to full-stack, frontend, and mobile development opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I work with
+
+- **Web:** TypeScript, React, Next.js, Ant Design
+- **Backend:** Node.js, Express, REST APIs, Zod
+- **Data:** PostgreSQL, Prisma, Redis
+- **Mobile:** React Native, Expo
+- **Development:** Git, pnpm, Turborepo, Jest, Testing Library
+
+## My development focus
+
+- Building applications across web, API, and mobile
+- Working with authentication, role-based access, and relational data
+- Improving usability, accessibility, and automated testing
+
+My project repositories are currently private. The contribution graph below includes anonymized private activity.
